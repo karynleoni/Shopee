@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>password_invalid</name>
+   <tag></tag>
+   <elementGuidId>fa5c0543-c477-4f23-bec2-c87b56a1cbbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gCY-Ye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[2]/div/div/div/div[2]/form/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81553530-3bdc-4749-9d61-78513a008c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gCY-Ye</value>
+      <webElementGuid>29e72ceb-a826-404c-bd5e-254b2cfec690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akun dan/atau password Anda salah, silakan coba lagi</value>
+      <webElementGuid>4e50c971-f1e0-4922-95b0-d4b8539d3a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;vtexOX&quot;]/div[1]/div[@class=&quot;_3M9lzn PeA8Gc&quot;]/div[@class=&quot;Gxi65y&quot;]/div[2]/form[1]/div[@class=&quot;IxqCyD J1i6cp B-fiUo&quot;]/div[@class=&quot;yXry6s&quot;]/div[@class=&quot;_8cXplf fu1xRy ek+JS+&quot;]/div[2]/div[@class=&quot;gCY-Ye&quot;]</value>
+      <webElementGuid>b41e39cd-5ef4-4b59-8a07-d89bd701a8f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div/div/div/div[2]/form/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>3145446c-a5ae-4483-be91-e0e4d004962a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in dengan QR'])[1]/following::div[5]</value>
+      <webElementGuid>d6171814-c310-4615-8af8-a98ce61caa47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/following::div[7]</value>
+      <webElementGuid>9c47abef-8c1f-4813-8af7-6a1cde9fa78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[3]/preceding::div[7]</value>
+      <webElementGuid>3ea00d92-13e6-4105-8bec-14072e749229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password'])[1]/preceding::div[7]</value>
+      <webElementGuid>45dbd7f2-9f94-4de2-aaea-f74faa6b8511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Akun dan/atau password Anda salah, silakan coba lagi']/parent::*</value>
+      <webElementGuid>ffbe4a9c-9a62-4a71-add3-fcfceb637488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>fded7cd5-0f68-4b53-9948-21a9d6f09fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Akun dan/atau password Anda salah, silakan coba lagi' or . = 'Akun dan/atau password Anda salah, silakan coba lagi')]</value>
+      <webElementGuid>bb6ceb5c-e151-4048-b9a5-26e3c773b1e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
